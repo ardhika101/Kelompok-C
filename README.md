@@ -119,7 +119,7 @@ npm run dev
 
 You will know server is running by checking the output of the command `npm run dev`
 
-```bash
+```bash  
 Connected to mongodb:YOUR_DB_CONNECTION_STRING
 App is running ...
 
